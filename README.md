@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Haroun Guessous
 
-<!--
-**AaronQLF/AaronQLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student** at McGill University | **Full-Stack Developer** | **Cloud Enthusiast**
 
-Here are some ideas to get you started:
+I am passionate about software development, cloud computing, and building scalable solutions. I enjoy working across the tech stack, from developing high-performance backends to creating intuitive user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Up To:
+- Revamping simulation tools to improve user experiences and predictive models
+- Developing and optimizing full-stack applications
+- Experimenting with microservices and distributed systems
+
+## 💻 Tech Stack:
+
+**Languages**:  
+- C#, .NET, Java, JavaScript, TypeScript, C++, Python, SQL, NoSQL
+
+**Developer Tools**:  
+- Git, Docker, Azure, AWS, CI/CD
+
+**Libraries/Frameworks**:  
+- React, Vue, Redux, Node, Express, Spring Boot, TensorFlow, OpenCV
+
+**Testing**:  
+- XUnit, Jest, Cucumber, Nightwatch
+
+**Specialties**:  
+- Microservices, Distributed Systems, Frontend & Backend Development, Game Development, AI, Machine Learning
+
+## 🌐 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/harounguessous/)
+- [Portfolio](http://aaronqlf.github.io/Portfolio/)
