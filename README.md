@@ -8,6 +8,7 @@ I am passionate about software development, cloud computing, and building scalab
 - Revamping my c++ fps game
 - Self-Teaching machine learning for Finance Applications
 - Experimenting with microservices and distributed systems
+- Creating my own neural network from scratch 
 
 ## 💻 Tech Stack:
 
