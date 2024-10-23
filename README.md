@@ -5,9 +5,8 @@
 I am passionate about software development, cloud computing, and building scalable solutions. I enjoy working across the tech stack, from developing high-performance backends to creating intuitive user interfaces.
 
 ## 🚀 What I'm Up To:
-- Revamping my c++ fps game
+- Working on my stock predictor program using three prediction models
 - Self-Teaching machine learning for Finance Applications
-- Experimenting with microservices and distributed systems
 - Creating my own neural network from scratch 
 
 ## 💻 Tech Stack:
