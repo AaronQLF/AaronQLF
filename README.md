@@ -1,6 +1,6 @@
 # Hi 👋 I'm Haroun Guessous
 
-🎓 **Software Engineering Student** at McGill University | **Full-Stack Developer** | **Cloud Enthusiast**
+🎓 **Software Engineering Student** at McGill University | **Full-Stack Developer** | **Quant Finance Enthusiast**
 
 I am passionate about software development, cloud computing, and building scalable solutions. I enjoy working across the tech stack, from developing high-performance backends to creating intuitive user interfaces.
 
