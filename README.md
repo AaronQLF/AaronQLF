@@ -6,7 +6,7 @@ I am passionate about software development, cloud computing, and building scalab
 
 ## 🚀 What I'm Up To:
 - Working on my stock predictor program using three prediction models
-- Making my own database in cpp
+- Making my own dbmw in python
 - Self-Teaching machine learning for Finance Applications
 - Creating my own neural network from scratch 
 
