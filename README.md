@@ -29,4 +29,4 @@ I am passionate about software development, cloud computing, and building scalab
 
 ## 🌐 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/harounguessous/)
-- [Portfolio]([http://aaronqlf.github.io/Portfolio/](https://portfolio2-0-orcin-rho.vercel.app))
+- [Portfolio]([https://portfolio2-0-orcin-rho.vercel.app])
