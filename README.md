@@ -5,7 +5,7 @@
 I am passionate about software development, cloud computing, and building scalable solutions. I enjoy working across the tech stack, from developing high-performance backends to creating intuitive user interfaces.
 
 ## 🚀 What I'm Up To:
-- Working on my stock predictor program using three prediction models
+- Learning Go
 - Making my own dbms in c
 - Self-Teaching machine learning for Finance Applications
 - Creating my own neural network from scratch 
