@@ -27,6 +27,3 @@ I am passionate about software development, cloud computing, and building scalab
 **Specialties**:  
 - Microservices, Distributed Systems, Frontend & Backend Development, Game Development, AI, Machine Learning
 
-## 🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/harounguessous/)
-- [Portfolio](https://portfolio2-0-orcin-rho.vercel.app)
